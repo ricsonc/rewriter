@@ -1,0 +1,11 @@
+the formatting of this file is obvious
+note that any line w/o a colon is a comment
+parameter names and values may have whitespace in them
+however, all leading and trailing whitespace will be stripped
+
+name : Karl
+animal : dog
+number : 328
+place : bedroom
+good bye : Sayonara
+time : midnight

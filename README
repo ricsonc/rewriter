@@ -1,0 +1,4 @@
+This is an extremely simple script. Given a text file which may contain parameters such as /number/, and a file which contains a list of parameters and their associated values, the script rewrites the input file using the given parameters.
+
+The following link to an image should be enough to explain everything:
+https://i.imgur.com/VTQjNSH.png
